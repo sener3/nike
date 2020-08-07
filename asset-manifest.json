@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nike/static/css/main.d3ad2fef.chunk.css",
+    "main.js": "/nike/static/js/main.1523bd08.chunk.js",
+    "main.js.map": "/nike/static/js/main.1523bd08.chunk.js.map",
+    "runtime-main.js": "/nike/static/js/runtime-main.5701da84.js",
+    "runtime-main.js.map": "/nike/static/js/runtime-main.5701da84.js.map",
+    "static/js/2.87f24480.chunk.js": "/nike/static/js/2.87f24480.chunk.js",
+    "static/js/2.87f24480.chunk.js.map": "/nike/static/js/2.87f24480.chunk.js.map",
+    "index.html": "/nike/index.html",
+    "precache-manifest.3a156ebb741c4bfec8ff9415cad7d11f.js": "/nike/precache-manifest.3a156ebb741c4bfec8ff9415cad7d11f.js",
+    "service-worker.js": "/nike/service-worker.js",
+    "static/css/main.d3ad2fef.chunk.css.map": "/nike/static/css/main.d3ad2fef.chunk.css.map",
+    "static/js/2.87f24480.chunk.js.LICENSE.txt": "/nike/static/js/2.87f24480.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5701da84.js",
+    "static/js/2.87f24480.chunk.js",
+    "static/css/main.d3ad2fef.chunk.css",
+    "static/js/main.1523bd08.chunk.js"
+  ]
+}
